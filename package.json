@@ -1,0 +1,24 @@
+{
+  "name": "simple-chat-app",
+  "version": "0.0.1",
+  "description": "Socket.io tutorial to learn it",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MastrCheef99/simple-chat-app.git"
+  },
+  "author": "mastrcheef99",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MastrCheef99/simple-chat-app/issues"
+  },
+  "homepage": "https://github.com/MastrCheef99/simple-chat-app#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
